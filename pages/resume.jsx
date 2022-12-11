@@ -15,7 +15,7 @@ const resume = () => {
       </Head>
 
       <div className="max-w-[940px] mx-auto p-2 pt-[120px]">
-        <h2 className="text-center dark:text-white">Resume</h2>
+        <h2 className="text-center">Resume</h2>
         <div className="bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center">
           <h2 className="text-center">Younes Bessa</h2>
           <div className="flex">
@@ -35,7 +35,7 @@ const resume = () => {
             </a>
           </div>
         </div>
-        <div className="text-center py-4 text-xl font-bold uppercase tracking-wider dark:text-white">
+        <div className="text-center py-4 text-xl font-bold uppercase tracking-wider">
           <div className="hidden sm:block">
             <p>
               Web Development <span className="px-1">|</span> Complex Problem
@@ -48,7 +48,7 @@ const resume = () => {
             <p>Proven Leadership</p>
           </div>
         </div>
-        <p className='dark:text-white'>
+        <p>
           I&apos;m a 24-year-old Junior full stack Web developer from France. I study
           web development at <a href="https://www.needfor-school.com/" target="_blank" rel="noreferrer" color="red">Need for School</a> in Rouen. I&apos;m an apprentice at <a href="https://tonightpass.com/" target="_blank" rel="noreferrer" color="red">Tonight Pass</a> and I&apos;m also part of an association called <a href="https://onruntime.com/" target="_blank" rel="noreferrer" color="red">onRuntime
           Studio</a>. I particularly like to meet new and diverse people and work
@@ -67,7 +67,7 @@ const resume = () => {
         </p> */}
 
         {/* Skills */}
-        <div className="text-center py-4 dark:text-white">
+        <div className="text-center py-4">
           <h5 className="text-center underline text-[18px] py-2">Skills</h5>
           <p className="py-2">
             <span className="font-bold">Technical Skills</span>
@@ -91,11 +91,11 @@ const resume = () => {
           </p> */}
         </div>
 
-        <h5 className="text-center underline text-[18px] py-4 dark:text-white">
+        <h5 className="text-center underline text-[18px] py-4">
           Professional Experience
         </h5>
         {/* Experience */}
-        <div className="py-6 dark:text-white">
+        <div className="py-6">
           <p className="italic">
           <a href="https://tonightpass.com/"><span className="font-bold italic">TONIGHT PASS</span></a>
             <span className="px-2">|</span>Rouen, France
@@ -113,7 +113,7 @@ const resume = () => {
           </ul>
         </div>
 
-        <div className="py-6 dark:text-white">
+        <div className="py-6">
           <p className="italic">
             <a href="https://expatfacilities.co/"><span className="font-bold italic">EXPAT FACILITIES</span></a>
             <span className="px-2">|</span>Rouen, France
@@ -131,7 +131,7 @@ const resume = () => {
           </ul>
         </div>
 
-        <div className="py-6 dark:text-white">
+        <div className="py-6">
           <p className="italic">
           <a href="https://rouen-informatique.com/"><span className="font-bold italic">ROUEN INFORMATIQUE</span></a>
             <span className="px-2">|</span>Rouen, France
@@ -191,12 +191,12 @@ const resume = () => {
         </div> */}
 
         {/*  */}
-        <h5 className="text-center underline text-[18px] py-4 dark:text-white">
+        <h5 className="text-center underline text-[18px] py-4">
           Other Professional Experience
         </h5>
 
         {/* Experience */}
-        <div className="py-6 dark:text-white">
+        <div className="py-6">
           <p className="italic">
             <span className="font-bold">QUICK</span>
             <span className="px-2">|</span>Rouen, France
